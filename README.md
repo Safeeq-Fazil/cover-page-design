@@ -25,6 +25,7 @@ Add images and other contents using CSS record a screenshot of it.
 
 PROGRAM :
 CODE:
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -143,9 +144,12 @@ CODE:
         </div>
     </body>
 </html>
-## OUTPUT:
-![safeeq cover book](https://user-images.githubusercontent.com/118680361/215242564-98fb82a0-2c54-49dd-8686-989612f22b0b.png)
 
+```
+## OUTPUT:
+
+
+![safeeq cover book](https://user-images.githubusercontent.com/118680361/215242735-b2c5f882-e277-42a2-a935-64e5e9ad1602.png)
 
 
 
