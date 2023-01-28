@@ -144,7 +144,7 @@ CODE:
     </body>
 </html>
 ## OUTPUT:
-![safeeq cover book](https://user-images.githubusercontent.com/118680361/215233689-728486f3-fec9-492e-b3e4-c11ac6d9ceee.png)
+![safeeq cover book](https://user-images.githubusercontent.com/118680361/215242564-98fb82a0-2c54-49dd-8686-989612f22b0b.png)
 
 
 
