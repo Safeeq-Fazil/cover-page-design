@@ -131,7 +131,7 @@ CODE:
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>SAFEEQ FAZIL A</b></p>
+               <p><b>SAFEEQ</b></p>
             </div>
             <div class="publisher">
                 Packt>
@@ -144,7 +144,8 @@ CODE:
     </body>
 </html>
 ## OUTPUT:
-![cover](https://user-images.githubusercontent.com/118680361/215101317-d078de51-18eb-498b-bd47-cc5a12f40a80.png)
+![safeeq cover book](https://user-images.githubusercontent.com/118680361/215233689-728486f3-fec9-492e-b3e4-c11ac6d9ceee.png)
+
 
 
 
