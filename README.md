@@ -124,13 +124,14 @@ CODE:
                 Develop future-proof responsive websites using the latest HTML5 and CSS Techniques
             </div>
             <div class="photo">
-                <img src="static/images/person.png" width="130" height="145" alt="">
+                <img src="static/images/![person](https://user-images.githubusercontent.com/118680361/215232784-99e2feaf-941f-40c2-8010-c6b502d18d35.png)
+" width="130" height="145" alt="">
             </div>
             <div class="id">
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>ARSHATHA P</b></p>
+               <p><b>SAFEEQ FAZIL A</b></p>
             </div>
             <div class="publisher">
                 Packt>
